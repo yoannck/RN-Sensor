@@ -1,6 +1,6 @@
 # Notes
 
-React Native - Collect accelerometer and gyro data sampling.
+React Native - Collect accelerometer and gyro data sampling. (Experiment)
 
 ## !! warning
 
